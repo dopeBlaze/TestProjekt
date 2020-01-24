@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: HelloWorld.Main
+Specification-Version: 1.2
+Implementation-Version: 1.1
