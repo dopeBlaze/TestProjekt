@@ -9,9 +9,10 @@ public class Main {
         System.out.println("Hello World 4");
         System.out.println("Hello World 5");
 
-        System.out.println("Hello World 6");
+        System.out.println("Hello World 6.1");
         System.out.println("Hello World 7");
 
-        System.out.println("Hello World 9");
+        System.out.println("Hello World 10");
+        System.out.println("Hello World 13");
     }
 }
