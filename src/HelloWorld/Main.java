@@ -9,10 +9,28 @@ public class Main {
         System.out.println("Hello World 4");
         System.out.println("Hello World 5");
 
-        System.out.println("Hello World 6");
+        System.out.println("Hello World 6.1");
         System.out.println("Hello World 7");
+
 
         System.out.println("Hello World 9");
         System.out.println("Hi all aus V2");
+
+
+        System.out.println("Antti ");
+        System.out.println("Antti 2");
+        System.out.println("Antti 3");
+        System.out.println("Antti 5");
+
+        System.out.println("Hello World 10");
+        System.out.println("Hello World 13");
+        System.out.println("Hello World 14");
+        System.out.println("Hi 15");
+        System.out.println("neu test");
+
+        System.out.println("Hi 16");
+
+        System.out.println("******");
+
     }
 }
