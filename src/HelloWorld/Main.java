@@ -25,5 +25,7 @@ public class Main {
         System.out.println("neu test");
 
         System.out.println("Hi 16");
+
+        System.out.println("******");
     }
 }
